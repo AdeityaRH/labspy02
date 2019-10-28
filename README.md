@@ -55,11 +55,11 @@ B.Hasil Eksekusi Program
 
 Kita akan membuat contoh dengan 3 buah bilangan yaitu: 50,70 dan 100.Maka yang akan tercetak adalah bilangan dengan nilai 100.
 
-1.Apabila kita melakukan perbandingan bilangan pertama (variabel x) dengan menginput nilai 100,dibandingkan dengan bilangan kedua (variabel y) dengan menginput nilai 70,dan bilangan ketiga (variabel z) dengan menginput nilai 50.Akan menghasilkan nilai true,maka akan tercetak adalah bilangan pertama (variabel x) dengan nilai 100.
+1.Apabila kita melakukan perbandingan bilangan pertama (variabel x) dengan menginput nilai 100,dibandingkan dengan bilangan kedua (variabel y) dengan menginput nilai 70,dan bilangan ketiga (variabel z) dengan menginput nilai 50.Akan menghasilkan nilai true,maka yang akan tercetak adalah bilangan pertama (variabel x) dengan nilai 100.
 ![Screenshot (57)](https://user-images.githubusercontent.com/56975779/67657073-3e716c80-f988-11e9-9b46-3448f20319a2.png)
 
-2.Apabila kita melakukan perbandingan bilangan kedua (variabel y) dengan menginput nilai 100,dibandingkan dengan bilangan pertama (variabel x) dengan menginput nilai 50,dan bilangan ketiga (variabel z) dengan dengan nilai 70.Akan menghasilkan nilai true,maka akan tercetak adalah bilangan pertama (variabel y) dengan nilai 100.
+2.Apabila kita melakukan perbandingan bilangan kedua (variabel y) dengan menginput nilai 100,dibandingkan dengan bilangan pertama (variabel x) dengan menginput nilai 50,dan bilangan ketiga (variabel z) dengan dengan nilai 70.Akan menghasilkan nilai true,maka yang akan tercetak adalah bilangan kedua (variabel y) dengan nilai 100.
 ![Screenshot (58)](https://user-images.githubusercontent.com/56975779/67657075-3f0a0300-f988-11e9-983b-879d990cd739.png)
 
-3.Apabila kita melakukan perbandingan bilangan ketiga (variabel z) dengan menginput nilai 100,dibandingkan dengan bilangan pertama (variabel x) dengan menginput nilai 70,dan bilangan ketiga (variabel y) dengan menginput nilai 50.Akan menghasilkan nilai false,maka akan tercetak adalah bilangan pertama (variabel z) dengan nilai 100.
+3.Apabila kita melakukan perbandingan bilangan ketiga (variabel z) dengan menginput nilai 100,dibandingkan dengan bilangan pertama (variabel x) dengan menginput nilai 70,dan bilangan ketiga (variabel y) dengan menginput nilai 50.Akan menghasilkan nilai false,maka yang akan tercetak adalah bilangan ketiga (variabel z) dengan nilai 100.
 ![Screenshot (60)](https://user-images.githubusercontent.com/56975779/67657225-bfc8ff00-f988-11e9-81d9-bcb319e2afcc.png)
