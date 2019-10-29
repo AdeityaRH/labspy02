@@ -52,7 +52,9 @@ Nilai dari variable z akan dieksekusi apabila kedua statement diatasnya yaitu if
 10.File siap untuk di running/dijalankan.
 
 B.Flowchart Program Perbandingan
-![Screenshot_20191028-215632~2](https://user-images.githubusercontent.com/56975779/67690357-515b5f80-f9cf-11e9-87f0-20071549ca3d.png)
+
+Berikut adalah Flowchart dari sebuah program perbandingan
+![Screenshot_20191029-133424~2](https://user-images.githubusercontent.com/56975779/67743478-5cef6a80-fa51-11e9-9188-a5cd1e3bc490.png)
 
 
 C.Tiga (3) Hasil Kondisi Input Data Pada Program Perbandingan
